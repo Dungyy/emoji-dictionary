@@ -33,7 +33,14 @@ const emojipedia = [
     name: "Nerd Face",
     meaning:
       "Huge glasses, awkward smile and buck teeth. Used humorously or ironically for nerds or to express how smart you are. Stereotype of a nerd; a smart but funny-dressed person with social deficits."
-  }
+  },
+  {
+    id: 6,
+    emoji: "😗",
+    name: "Kissing Face",
+    meaning:
+      "The face sends kisses to another person. The open eyes and the neutral face are not so much a sign of an intimate kiss but rather a kiss to a friend or relative. “Thank you“, “Hello“ or “Goodbye“. Could also stand for “whistling” or “duck face”."
+  },
 ];
 
 export default emojipedia;
