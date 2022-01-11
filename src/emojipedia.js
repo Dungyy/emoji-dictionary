@@ -19,5 +19,21 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "🥰",
+    name: "Smiling face with smiling eyes and three hearts",
+    meaning:
+      "You are in love, sitting on cloud number nine. The romantic emoji with the enamored expression of the face stands for affairs of the heart."
+  },
+  {
+    id: 5,
+    emoji: "🤓",
+    name: "Nerd Face",
+    meaning:
+      "Huge glasses, awkward smile and buck teeth. Used humorously or ironically for nerds or to express how smart you are. Stereotype of a nerd; a smart but funny-dressed person with social deficits."
   }
 ];
+
+export default emojipedia;
